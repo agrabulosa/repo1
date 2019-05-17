@@ -1,17 +1,4 @@
-package omplirnumeros;
-
-public class Main {
-
-	public static void main(String[] args) {
-		int n=5;
-		int[] taula = new int[n];
-
-		taula = omplir(n);
-		int suma = sumar(taula);
-
-		System.out.println("La suma es: " + suma);
-
-	}
+FITXER EXTREMADAMENT CANVIAT...!
 
 
 	private static int[] omplir(int n) {
