@@ -21,7 +21,7 @@ public class Main {
 		taula = new int[n];
 		
 		for (int i = 0; i < n; i++)
-			taula[i] = i+1;
+			taula[i] = i+i+1;
 		
 		return taula; 
 	}
